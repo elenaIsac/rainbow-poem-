@@ -3,6 +3,7 @@ orange
 blue 
 red 
 green
+yellow 
 brown
 purple
 thes eare teh color of teh rainbow 
